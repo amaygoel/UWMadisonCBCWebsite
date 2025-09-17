@@ -16,7 +16,7 @@ const Header = () => {
           />
           <span className="text-xl font-semibold text-[#CD7F5C]">
             <span className="block sm:hidden">DCBC</span>
-            <span className="hidden sm:block">Duke Claude Builder Club</span>
+            <span className="hidden sm:block">Claude Builder Club</span>
           </span>
         </div>
         

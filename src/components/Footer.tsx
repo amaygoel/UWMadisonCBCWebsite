@@ -16,11 +16,11 @@ const Footer = () => {
               />
               <div>
                 <h3 className="text-xl font-bold">Claude Builder Club</h3>
-                <p className="text-sm text-gray-300">Duke University</p>
+                <p className="text-sm text-gray-300">UW-Madison</p>
               </div>
             </div>
             <p className="text-gray-300 leading-relaxed">
-              Duke's AI development community, empowering students to build innovative solutions using Claude and cutting-edge AI technologies.
+              UW-Madison's AI development community, empowering students to build innovative solutions using Claude and cutting-edge AI technologies.
             </p>
           </div>
 
@@ -30,11 +30,11 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-2 text-gray-300">
                 <Mail className="w-4 h-4" />
-                <span className="text-sm">claudeatduke@gmail.com</span>
+                <span className="text-sm">claudeatuw@gmail.com</span>
               </div>
               <div className="flex items-center space-x-2 text-gray-300">
                 <MessageCircle className="w-4 h-4" />
-                <span className="text-sm">Biweekly meetings: Thursday 7:15pm to 8:15pm</span>
+                <span className="text-sm">TBD</span>
               </div>
             </div>
           </div>
@@ -61,7 +61,7 @@ const Footer = () => {
                 <Instagram className="w-5 h-5" />
               </a>
               <a
-                href="mailto:claudeatduke@gmail.com"
+                href="mailto:claudeatuw@gmail.com"
                 className="p-3 bg-[#B8693F] rounded-lg hover:bg-purple-600 transition-colors"
               >
                 <Mail className="w-5 h-5" />
@@ -70,7 +70,7 @@ const Footer = () => {
             
             <div className="text-center md:text-right">
               <p className="text-gray-300 text-sm">
-                © 2025 Claude Builder Club at Duke University. All rights reserved.
+                © 2025 Claude Builder Club at UW-Madison. All rights reserved.
               </p>
               <p className="text-gray-300 text-xs mt-1">
                 Building the future, one AI project at a time.

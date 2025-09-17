@@ -22,7 +22,7 @@ const LoadingOverlay = () => {
           alt="Claude Logo" 
           className="w-12 h-12 md:w-16 md:h-16 animate-slow-spin"
         />
-        <span className="text-4xl md:text-6xl font-bold" style={{ color: '#CD7F5C' }}>Duke</span>
+        <span className="text-4xl md:text-6xl font-bold" style={{ color: '#CD7F5C' }}>UW-Madison</span>
       </div>
     </div>
   );
