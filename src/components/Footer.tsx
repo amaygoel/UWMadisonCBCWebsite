@@ -53,7 +53,7 @@ const Footer = () => {
                 <MessageCircle className="w-5 h-5" />
               </a>
               <a
-                href="https://instagram.com/claudeatduke"
+                href="https://instagram.com/claudeatuw"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-[#B8693F] rounded-lg hover:bg-pink-600 transition-colors"
